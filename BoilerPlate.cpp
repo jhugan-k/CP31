@@ -12,7 +12,8 @@ int main(){
 
     int tc;
     cin >> tc;
-    for(int t = 0; t < tc; t++){
-
+    while(tc--){
+        
     }
+    
 }
